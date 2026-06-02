@@ -1,0 +1,6 @@
+{
+  "name": "CloudBuild Engine",
+  "description": "Remote cloud-based compilation for Android Studio projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
